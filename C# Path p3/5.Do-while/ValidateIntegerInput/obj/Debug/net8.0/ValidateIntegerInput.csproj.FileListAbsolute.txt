@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateIntegerInput/bin/Debug/net8.0/ValidateIntegerInput
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateIntegerInput/bin/Debug/net8.0/ValidateIntegerInput.deps.json
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateIntegerInput/bin/Debug/net8.0/ValidateIntegerInput.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateIntegerInput/bin/Debug/net8.0/ValidateIntegerInput.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateIntegerInput/bin/Debug/net8.0/ValidateIntegerInput.pdb
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateIntegerInput/obj/Debug/net8.0/ValidateIntegerInput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateIntegerInput/obj/Debug/net8.0/ValidateIntegerInput.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateIntegerInput/obj/Debug/net8.0/ValidateIntegerInput.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateIntegerInput/obj/Debug/net8.0/ValidateIntegerInput.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateIntegerInput/obj/Debug/net8.0/ValidateIntegerInput.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateIntegerInput/obj/Debug/net8.0/refint/ValidateIntegerInput.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateIntegerInput/obj/Debug/net8.0/ValidateIntegerInput.pdb
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateIntegerInput/obj/Debug/net8.0/ValidateIntegerInput.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateIntegerInput/obj/Debug/net8.0/ref/ValidateIntegerInput.dll

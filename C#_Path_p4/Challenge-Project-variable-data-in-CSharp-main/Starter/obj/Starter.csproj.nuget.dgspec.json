@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Challenge-Project-variable-data-in-CSharp-main/Starter/Starter.csproj": {}
+  },
+  "projects": {
+    "/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Challenge-Project-variable-data-in-CSharp-main/Starter/Starter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Challenge-Project-variable-data-in-CSharp-main/Starter/Starter.csproj",
+        "projectName": "Starter",
+        "projectPath": "/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Challenge-Project-variable-data-in-CSharp-main/Starter/Starter.csproj",
+        "packagesPath": "/Users/apple/.nuget/packages/",
+        "outputPath": "/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/apple/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/apple/.vscode-dotnet-sdk/.dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

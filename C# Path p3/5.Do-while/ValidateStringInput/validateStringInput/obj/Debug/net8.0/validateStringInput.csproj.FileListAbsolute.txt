@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateStringInput/validateStringInput/bin/Debug/net8.0/validateStringInput
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateStringInput/validateStringInput/bin/Debug/net8.0/validateStringInput.deps.json
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateStringInput/validateStringInput/bin/Debug/net8.0/validateStringInput.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateStringInput/validateStringInput/bin/Debug/net8.0/validateStringInput.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateStringInput/validateStringInput/bin/Debug/net8.0/validateStringInput.pdb
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateStringInput/validateStringInput/obj/Debug/net8.0/validateStringInput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateStringInput/validateStringInput/obj/Debug/net8.0/validateStringInput.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateStringInput/validateStringInput/obj/Debug/net8.0/validateStringInput.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateStringInput/validateStringInput/obj/Debug/net8.0/validateStringInput.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateStringInput/validateStringInput/obj/Debug/net8.0/validateStringInput.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateStringInput/validateStringInput/obj/Debug/net8.0/refint/validateStringInput.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateStringInput/validateStringInput/obj/Debug/net8.0/validateStringInput.pdb
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateStringInput/validateStringInput/obj/Debug/net8.0/validateStringInput.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Do-while/ValidateStringInput/validateStringInput/obj/Debug/net8.0/ref/validateStringInput.dll

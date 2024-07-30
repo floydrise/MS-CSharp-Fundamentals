@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/Choose correct data type/dataTypes/bin/Debug/net8.0/dataTypes
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/Choose correct data type/dataTypes/bin/Debug/net8.0/dataTypes.deps.json
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/Choose correct data type/dataTypes/bin/Debug/net8.0/dataTypes.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/Choose correct data type/dataTypes/bin/Debug/net8.0/dataTypes.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/Choose correct data type/dataTypes/bin/Debug/net8.0/dataTypes.pdb
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/Choose correct data type/dataTypes/obj/Debug/net8.0/dataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/Choose correct data type/dataTypes/obj/Debug/net8.0/dataTypes.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/Choose correct data type/dataTypes/obj/Debug/net8.0/dataTypes.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/Choose correct data type/dataTypes/obj/Debug/net8.0/dataTypes.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/Choose correct data type/dataTypes/obj/Debug/net8.0/dataTypes.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/Choose correct data type/dataTypes/obj/Debug/net8.0/refint/dataTypes.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/Choose correct data type/dataTypes/obj/Debug/net8.0/dataTypes.pdb
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/Choose correct data type/dataTypes/obj/Debug/net8.0/dataTypes.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/Choose correct data type/dataTypes/obj/Debug/net8.0/ref/dataTypes.dll

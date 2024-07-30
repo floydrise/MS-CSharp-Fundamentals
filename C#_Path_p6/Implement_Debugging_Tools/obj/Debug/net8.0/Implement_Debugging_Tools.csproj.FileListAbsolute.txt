@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Implement_Debugging_Tools/bin/Debug/net8.0/Implement_Debugging_Tools
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Implement_Debugging_Tools/bin/Debug/net8.0/Implement_Debugging_Tools.deps.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Implement_Debugging_Tools/bin/Debug/net8.0/Implement_Debugging_Tools.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Implement_Debugging_Tools/bin/Debug/net8.0/Implement_Debugging_Tools.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Implement_Debugging_Tools/bin/Debug/net8.0/Implement_Debugging_Tools.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Implement_Debugging_Tools/obj/Debug/net8.0/Implement_Debugging_Tools.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Implement_Debugging_Tools/obj/Debug/net8.0/Implement_Debugging_Tools.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Implement_Debugging_Tools/obj/Debug/net8.0/Implement_Debugging_Tools.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Implement_Debugging_Tools/obj/Debug/net8.0/Implement_Debugging_Tools.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Implement_Debugging_Tools/obj/Debug/net8.0/Implement_Debugging_Tools.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Implement_Debugging_Tools/obj/Debug/net8.0/refint/Implement_Debugging_Tools.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Implement_Debugging_Tools/obj/Debug/net8.0/Implement_Debugging_Tools.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Implement_Debugging_Tools/obj/Debug/net8.0/Implement_Debugging_Tools.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Implement_Debugging_Tools/obj/Debug/net8.0/ref/Implement_Debugging_Tools.dll

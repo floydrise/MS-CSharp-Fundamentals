@@ -1,0 +1,28 @@
+/Users/apple/Documents/Programming/C#Projects/Code blocks and variable scope/CodeBlocks/bin/Debug/net8.0/CodeBlocks
+/Users/apple/Documents/Programming/C#Projects/Code blocks and variable scope/CodeBlocks/bin/Debug/net8.0/CodeBlocks.deps.json
+/Users/apple/Documents/Programming/C#Projects/Code blocks and variable scope/CodeBlocks/bin/Debug/net8.0/CodeBlocks.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/Code blocks and variable scope/CodeBlocks/bin/Debug/net8.0/CodeBlocks.dll
+/Users/apple/Documents/Programming/C#Projects/Code blocks and variable scope/CodeBlocks/bin/Debug/net8.0/CodeBlocks.pdb
+/Users/apple/Documents/Programming/C#Projects/Code blocks and variable scope/CodeBlocks/obj/Debug/net8.0/CodeBlocks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/Code blocks and variable scope/CodeBlocks/obj/Debug/net8.0/CodeBlocks.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/Code blocks and variable scope/CodeBlocks/obj/Debug/net8.0/CodeBlocks.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/Code blocks and variable scope/CodeBlocks/obj/Debug/net8.0/CodeBlocks.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/Code blocks and variable scope/CodeBlocks/obj/Debug/net8.0/CodeBlocks.dll
+/Users/apple/Documents/Programming/C#Projects/Code blocks and variable scope/CodeBlocks/obj/Debug/net8.0/refint/CodeBlocks.dll
+/Users/apple/Documents/Programming/C#Projects/Code blocks and variable scope/CodeBlocks/obj/Debug/net8.0/CodeBlocks.pdb
+/Users/apple/Documents/Programming/C#Projects/Code blocks and variable scope/CodeBlocks/obj/Debug/net8.0/CodeBlocks.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/Code blocks and variable scope/CodeBlocks/obj/Debug/net8.0/ref/CodeBlocks.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Code blocks and variable scope/CodeBlocks/bin/Debug/net8.0/CodeBlocks
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Code blocks and variable scope/CodeBlocks/bin/Debug/net8.0/CodeBlocks.deps.json
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Code blocks and variable scope/CodeBlocks/bin/Debug/net8.0/CodeBlocks.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Code blocks and variable scope/CodeBlocks/bin/Debug/net8.0/CodeBlocks.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Code blocks and variable scope/CodeBlocks/bin/Debug/net8.0/CodeBlocks.pdb
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Code blocks and variable scope/CodeBlocks/obj/Debug/net8.0/CodeBlocks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Code blocks and variable scope/CodeBlocks/obj/Debug/net8.0/CodeBlocks.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Code blocks and variable scope/CodeBlocks/obj/Debug/net8.0/CodeBlocks.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Code blocks and variable scope/CodeBlocks/obj/Debug/net8.0/CodeBlocks.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Code blocks and variable scope/CodeBlocks/obj/Debug/net8.0/CodeBlocks.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Code blocks and variable scope/CodeBlocks/obj/Debug/net8.0/refint/CodeBlocks.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Code blocks and variable scope/CodeBlocks/obj/Debug/net8.0/CodeBlocks.pdb
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Code blocks and variable scope/CodeBlocks/obj/Debug/net8.0/CodeBlocks.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Code blocks and variable scope/CodeBlocks/obj/Debug/net8.0/ref/CodeBlocks.dll

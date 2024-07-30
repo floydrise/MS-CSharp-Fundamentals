@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods with parameters/methodsWithParameters/bin/Debug/net8.0/methodsWithParameters
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods with parameters/methodsWithParameters/bin/Debug/net8.0/methodsWithParameters.deps.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods with parameters/methodsWithParameters/bin/Debug/net8.0/methodsWithParameters.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods with parameters/methodsWithParameters/bin/Debug/net8.0/methodsWithParameters.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods with parameters/methodsWithParameters/bin/Debug/net8.0/methodsWithParameters.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods with parameters/methodsWithParameters/obj/Debug/net8.0/methodsWithParameters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods with parameters/methodsWithParameters/obj/Debug/net8.0/methodsWithParameters.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods with parameters/methodsWithParameters/obj/Debug/net8.0/methodsWithParameters.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods with parameters/methodsWithParameters/obj/Debug/net8.0/methodsWithParameters.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods with parameters/methodsWithParameters/obj/Debug/net8.0/methodsWithParameters.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods with parameters/methodsWithParameters/obj/Debug/net8.0/refint/methodsWithParameters.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods with parameters/methodsWithParameters/obj/Debug/net8.0/methodsWithParameters.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods with parameters/methodsWithParameters/obj/Debug/net8.0/methodsWithParameters.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods with parameters/methodsWithParameters/obj/Debug/net8.0/ref/methodsWithParameters.dll

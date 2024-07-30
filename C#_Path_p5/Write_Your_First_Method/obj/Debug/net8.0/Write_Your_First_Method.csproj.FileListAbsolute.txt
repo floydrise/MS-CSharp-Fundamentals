@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Write_Your_First_Method/bin/Debug/net8.0/Write_Your_First_Method
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Write_Your_First_Method/bin/Debug/net8.0/Write_Your_First_Method.deps.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Write_Your_First_Method/bin/Debug/net8.0/Write_Your_First_Method.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Write_Your_First_Method/bin/Debug/net8.0/Write_Your_First_Method.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Write_Your_First_Method/bin/Debug/net8.0/Write_Your_First_Method.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Write_Your_First_Method/obj/Debug/net8.0/Write_Your_First_Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Write_Your_First_Method/obj/Debug/net8.0/Write_Your_First_Method.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Write_Your_First_Method/obj/Debug/net8.0/Write_Your_First_Method.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Write_Your_First_Method/obj/Debug/net8.0/Write_Your_First_Method.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Write_Your_First_Method/obj/Debug/net8.0/Write_Your_First_Method.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Write_Your_First_Method/obj/Debug/net8.0/refint/Write_Your_First_Method.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Write_Your_First_Method/obj/Debug/net8.0/Write_Your_First_Method.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Write_Your_First_Method/obj/Debug/net8.0/Write_Your_First_Method.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Write_Your_First_Method/obj/Debug/net8.0/ref/Write_Your_First_Method.dll

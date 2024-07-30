@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+h1pwIJ89DJ6kUPMAhS9yKCRMJDp//7YeCuCxj8c+pequK3HDcS2MbOJr6Ok/AYPdHAQIKTrDTpOtU0SEdlAvw==",
+  "success": true,
+  "projectFilePath": "/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Challenge-project-Create-methods-in-CSharp-main/Final/Final.csproj",
+  "expectedPackageFiles": [
+    "/Users/apple/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.25/microsoft.netcore.app.host.osx-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

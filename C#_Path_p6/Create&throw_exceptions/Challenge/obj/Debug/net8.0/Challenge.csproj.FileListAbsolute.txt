@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Create&throw_exceptions/Challenge/bin/Debug/net8.0/Challenge
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Create&throw_exceptions/Challenge/bin/Debug/net8.0/Challenge.deps.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Create&throw_exceptions/Challenge/bin/Debug/net8.0/Challenge.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Create&throw_exceptions/Challenge/bin/Debug/net8.0/Challenge.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Create&throw_exceptions/Challenge/bin/Debug/net8.0/Challenge.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Create&throw_exceptions/Challenge/obj/Debug/net8.0/Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Create&throw_exceptions/Challenge/obj/Debug/net8.0/Challenge.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Create&throw_exceptions/Challenge/obj/Debug/net8.0/Challenge.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Create&throw_exceptions/Challenge/obj/Debug/net8.0/Challenge.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Create&throw_exceptions/Challenge/obj/Debug/net8.0/Challenge.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Create&throw_exceptions/Challenge/obj/Debug/net8.0/refint/Challenge.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Create&throw_exceptions/Challenge/obj/Debug/net8.0/Challenge.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Create&throw_exceptions/Challenge/obj/Debug/net8.0/Challenge.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p6/Create&throw_exceptions/Challenge/obj/Debug/net8.0/ref/Challenge.dll

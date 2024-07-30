@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Switch-case/switchCase/bin/Debug/net8.0/switchCase
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Switch-case/switchCase/bin/Debug/net8.0/switchCase.deps.json
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Switch-case/switchCase/bin/Debug/net8.0/switchCase.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Switch-case/switchCase/bin/Debug/net8.0/switchCase.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Switch-case/switchCase/bin/Debug/net8.0/switchCase.pdb
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Switch-case/switchCase/obj/Debug/net8.0/switchCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Switch-case/switchCase/obj/Debug/net8.0/switchCase.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Switch-case/switchCase/obj/Debug/net8.0/switchCase.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Switch-case/switchCase/obj/Debug/net8.0/switchCase.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Switch-case/switchCase/obj/Debug/net8.0/switchCase.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Switch-case/switchCase/obj/Debug/net8.0/refint/switchCase.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Switch-case/switchCase/obj/Debug/net8.0/switchCase.pdb
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Switch-case/switchCase/obj/Debug/net8.0/switchCase.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Switch-case/switchCase/obj/Debug/net8.0/ref/switchCase.dll

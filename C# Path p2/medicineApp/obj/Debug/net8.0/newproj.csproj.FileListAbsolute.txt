@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/newproj/newproj/bin/Debug/net8.0/newproj
+/Users/apple/Documents/Programming/C#Projects/newproj/newproj/bin/Debug/net8.0/newproj.deps.json
+/Users/apple/Documents/Programming/C#Projects/newproj/newproj/bin/Debug/net8.0/newproj.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/newproj/newproj/bin/Debug/net8.0/newproj.dll
+/Users/apple/Documents/Programming/C#Projects/newproj/newproj/bin/Debug/net8.0/newproj.pdb
+/Users/apple/Documents/Programming/C#Projects/newproj/newproj/obj/Debug/net8.0/newproj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/newproj/newproj/obj/Debug/net8.0/newproj.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/newproj/newproj/obj/Debug/net8.0/newproj.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/newproj/newproj/obj/Debug/net8.0/newproj.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/newproj/newproj/obj/Debug/net8.0/newproj.dll
+/Users/apple/Documents/Programming/C#Projects/newproj/newproj/obj/Debug/net8.0/refint/newproj.dll
+/Users/apple/Documents/Programming/C#Projects/newproj/newproj/obj/Debug/net8.0/newproj.pdb
+/Users/apple/Documents/Programming/C#Projects/newproj/newproj/obj/Debug/net8.0/newproj.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/newproj/newproj/obj/Debug/net8.0/ref/newproj.dll

@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/Exercise/bin/Debug/net8.0/Exercise
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/Exercise/bin/Debug/net8.0/Exercise.deps.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/Exercise/bin/Debug/net8.0/Exercise.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/Exercise/bin/Debug/net8.0/Exercise.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/Exercise/bin/Debug/net8.0/Exercise.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/Exercise/obj/Debug/net8.0/Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/Exercise/obj/Debug/net8.0/Exercise.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/Exercise/obj/Debug/net8.0/Exercise.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/Exercise/obj/Debug/net8.0/Exercise.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/Exercise/obj/Debug/net8.0/Exercise.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/Exercise/obj/Debug/net8.0/refint/Exercise.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/Exercise/obj/Debug/net8.0/Exercise.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/Exercise/obj/Debug/net8.0/Exercise.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/Exercise/obj/Debug/net8.0/ref/Exercise.dll

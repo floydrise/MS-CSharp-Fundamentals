@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/format_alphanumeric_data/alphanumericData/bin/Debug/net8.0/alphanumericData
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/format_alphanumeric_data/alphanumericData/bin/Debug/net8.0/alphanumericData.deps.json
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/format_alphanumeric_data/alphanumericData/bin/Debug/net8.0/alphanumericData.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/format_alphanumeric_data/alphanumericData/bin/Debug/net8.0/alphanumericData.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/format_alphanumeric_data/alphanumericData/bin/Debug/net8.0/alphanumericData.pdb
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/format_alphanumeric_data/alphanumericData/obj/Debug/net8.0/alphanumericData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/format_alphanumeric_data/alphanumericData/obj/Debug/net8.0/alphanumericData.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/format_alphanumeric_data/alphanumericData/obj/Debug/net8.0/alphanumericData.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/format_alphanumeric_data/alphanumericData/obj/Debug/net8.0/alphanumericData.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/format_alphanumeric_data/alphanumericData/obj/Debug/net8.0/alphanumericData.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/format_alphanumeric_data/alphanumericData/obj/Debug/net8.0/refint/alphanumericData.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/format_alphanumeric_data/alphanumericData/obj/Debug/net8.0/alphanumericData.pdb
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/format_alphanumeric_data/alphanumericData/obj/Debug/net8.0/alphanumericData.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p4/format_alphanumeric_data/alphanumericData/obj/Debug/net8.0/ref/alphanumericData.dll

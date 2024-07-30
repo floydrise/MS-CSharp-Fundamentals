@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/modifyStrings/bin/Debug/net8.0/modifyStrings
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/modifyStrings/bin/Debug/net8.0/modifyStrings.deps.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/modifyStrings/bin/Debug/net8.0/modifyStrings.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/modifyStrings/bin/Debug/net8.0/modifyStrings.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/modifyStrings/bin/Debug/net8.0/modifyStrings.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/modifyStrings/obj/Debug/net8.0/modifyStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/modifyStrings/obj/Debug/net8.0/modifyStrings.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/modifyStrings/obj/Debug/net8.0/modifyStrings.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/modifyStrings/obj/Debug/net8.0/modifyStrings.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/modifyStrings/obj/Debug/net8.0/modifyStrings.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/modifyStrings/obj/Debug/net8.0/refint/modifyStrings.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/modifyStrings/obj/Debug/net8.0/modifyStrings.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/modifyStrings/obj/Debug/net8.0/modifyStrings.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/Modify_contents_of_strings/modifyStrings/obj/Debug/net8.0/ref/modifyStrings.dll

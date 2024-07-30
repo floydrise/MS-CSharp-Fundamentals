@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.deps.json
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.pdb
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/refint/Final.dll
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.pdb
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/C# Path p3/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/ref/Final.dll

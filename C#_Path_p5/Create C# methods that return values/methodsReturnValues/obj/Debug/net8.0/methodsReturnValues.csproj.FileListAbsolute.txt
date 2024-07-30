@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods that return values/methodsReturnValues/bin/Debug/net8.0/methodsReturnValues
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods that return values/methodsReturnValues/bin/Debug/net8.0/methodsReturnValues.deps.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods that return values/methodsReturnValues/bin/Debug/net8.0/methodsReturnValues.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods that return values/methodsReturnValues/bin/Debug/net8.0/methodsReturnValues.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods that return values/methodsReturnValues/bin/Debug/net8.0/methodsReturnValues.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods that return values/methodsReturnValues/obj/Debug/net8.0/methodsReturnValues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods that return values/methodsReturnValues/obj/Debug/net8.0/methodsReturnValues.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods that return values/methodsReturnValues/obj/Debug/net8.0/methodsReturnValues.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods that return values/methodsReturnValues/obj/Debug/net8.0/methodsReturnValues.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods that return values/methodsReturnValues/obj/Debug/net8.0/methodsReturnValues.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods that return values/methodsReturnValues/obj/Debug/net8.0/refint/methodsReturnValues.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods that return values/methodsReturnValues/obj/Debug/net8.0/methodsReturnValues.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods that return values/methodsReturnValues/obj/Debug/net8.0/methodsReturnValues.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Create C# methods that return values/methodsReturnValues/obj/Debug/net8.0/ref/methodsReturnValues.dll

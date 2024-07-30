@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/ Convert data types using casting and conversion techniques in C# /project1/bin/Debug/net8.0/project1
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/ Convert data types using casting and conversion techniques in C# /project1/bin/Debug/net8.0/project1.deps.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/ Convert data types using casting and conversion techniques in C# /project1/bin/Debug/net8.0/project1.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/ Convert data types using casting and conversion techniques in C# /project1/bin/Debug/net8.0/project1.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/ Convert data types using casting and conversion techniques in C# /project1/bin/Debug/net8.0/project1.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/ Convert data types using casting and conversion techniques in C# /project1/obj/Debug/net8.0/project1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/ Convert data types using casting and conversion techniques in C# /project1/obj/Debug/net8.0/project1.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/ Convert data types using casting and conversion techniques in C# /project1/obj/Debug/net8.0/project1.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/ Convert data types using casting and conversion techniques in C# /project1/obj/Debug/net8.0/project1.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/ Convert data types using casting and conversion techniques in C# /project1/obj/Debug/net8.0/project1.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/ Convert data types using casting and conversion techniques in C# /project1/obj/Debug/net8.0/refint/project1.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/ Convert data types using casting and conversion techniques in C# /project1/obj/Debug/net8.0/project1.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/ Convert data types using casting and conversion techniques in C# /project1/obj/Debug/net8.0/project1.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p4/ Convert data types using casting and conversion techniques in C# /project1/obj/Debug/net8.0/ref/project1.dll

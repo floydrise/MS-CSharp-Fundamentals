@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Challenge-project-Create-methods-in-CSharp-main/Starter/bin/Debug/net6.0/Starter
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Challenge-project-Create-methods-in-CSharp-main/Starter/bin/Debug/net6.0/Starter.deps.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Challenge-project-Create-methods-in-CSharp-main/Starter/bin/Debug/net6.0/Starter.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Challenge-project-Create-methods-in-CSharp-main/Starter/bin/Debug/net6.0/Starter.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Challenge-project-Create-methods-in-CSharp-main/Starter/bin/Debug/net6.0/Starter.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Challenge-project-Create-methods-in-CSharp-main/Starter/obj/Debug/net6.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Challenge-project-Create-methods-in-CSharp-main/Starter/obj/Debug/net6.0/Starter.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Challenge-project-Create-methods-in-CSharp-main/Starter/obj/Debug/net6.0/Starter.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Challenge-project-Create-methods-in-CSharp-main/Starter/obj/Debug/net6.0/Starter.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Challenge-project-Create-methods-in-CSharp-main/Starter/obj/Debug/net6.0/Starter.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Challenge-project-Create-methods-in-CSharp-main/Starter/obj/Debug/net6.0/refint/Starter.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Challenge-project-Create-methods-in-CSharp-main/Starter/obj/Debug/net6.0/Starter.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Challenge-project-Create-methods-in-CSharp-main/Starter/obj/Debug/net6.0/Starter.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Challenge-project-Create-methods-in-CSharp-main/Starter/obj/Debug/net6.0/ref/Starter.dll

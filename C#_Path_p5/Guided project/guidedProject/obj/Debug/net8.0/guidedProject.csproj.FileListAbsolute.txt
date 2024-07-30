@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Guided project/guidedProject/bin/Debug/net8.0/guidedProject
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Guided project/guidedProject/bin/Debug/net8.0/guidedProject.deps.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Guided project/guidedProject/bin/Debug/net8.0/guidedProject.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Guided project/guidedProject/bin/Debug/net8.0/guidedProject.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Guided project/guidedProject/bin/Debug/net8.0/guidedProject.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Guided project/guidedProject/obj/Debug/net8.0/guidedProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Guided project/guidedProject/obj/Debug/net8.0/guidedProject.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Guided project/guidedProject/obj/Debug/net8.0/guidedProject.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Guided project/guidedProject/obj/Debug/net8.0/guidedProject.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Guided project/guidedProject/obj/Debug/net8.0/guidedProject.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Guided project/guidedProject/obj/Debug/net8.0/refint/guidedProject.dll
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Guided project/guidedProject/obj/Debug/net8.0/guidedProject.pdb
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Guided project/guidedProject/obj/Debug/net8.0/guidedProject.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/C#_Path_p5/Guided project/guidedProject/obj/Debug/net8.0/ref/guidedProject.dll

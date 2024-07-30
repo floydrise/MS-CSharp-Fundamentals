@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter
+/Users/apple/Documents/Programming/C#Projects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/Users/apple/Documents/Programming/C#Projects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll
+/Users/apple/Documents/Programming/C#Projects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.pdb
+/Users/apple/Documents/Programming/C#Projects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.dll
+/Users/apple/Documents/Programming/C#Projects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/Users/apple/Documents/Programming/C#Projects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
+/Users/apple/Documents/Programming/C#Projects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll

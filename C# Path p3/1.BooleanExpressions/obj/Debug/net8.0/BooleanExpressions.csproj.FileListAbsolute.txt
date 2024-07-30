@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C#Projects/BooleanExpressions/bin/Debug/net8.0/BooleanExpressions
+/Users/apple/Documents/Programming/C#Projects/BooleanExpressions/bin/Debug/net8.0/BooleanExpressions.deps.json
+/Users/apple/Documents/Programming/C#Projects/BooleanExpressions/bin/Debug/net8.0/BooleanExpressions.runtimeconfig.json
+/Users/apple/Documents/Programming/C#Projects/BooleanExpressions/bin/Debug/net8.0/BooleanExpressions.dll
+/Users/apple/Documents/Programming/C#Projects/BooleanExpressions/bin/Debug/net8.0/BooleanExpressions.pdb
+/Users/apple/Documents/Programming/C#Projects/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C#Projects/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C#Projects/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C#Projects/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C#Projects/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.dll
+/Users/apple/Documents/Programming/C#Projects/BooleanExpressions/obj/Debug/net8.0/refint/BooleanExpressions.dll
+/Users/apple/Documents/Programming/C#Projects/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.pdb
+/Users/apple/Documents/Programming/C#Projects/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C#Projects/BooleanExpressions/obj/Debug/net8.0/ref/BooleanExpressions.dll
